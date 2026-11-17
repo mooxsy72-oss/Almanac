@@ -1,0 +1,12 @@
+{
+    "display_name": "Almanac",
+    "loading_order": 18,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Mooxsy",
+    "version": "0.4.0",
+    "homePage": "",
+    "auto_update": false
+}
